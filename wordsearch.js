@@ -1,3 +1,5 @@
+// pair programming: Zea Lingard & Lily Habberfield
+
 const transpose = function(matrix) {
   const newMatrix = [];
 

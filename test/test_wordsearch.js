@@ -1,3 +1,5 @@
+// pair programming: Zea Lingard & Lily Habberfield
+
 const chai = require('chai');
 const assert = chai.assert;
 
